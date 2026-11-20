@@ -1,0 +1,263 @@
+{
+  "responsive": [
+    {
+      "page": "index",
+      "width": 320,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "index",
+      "width": 390,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "index",
+      "width": 768,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "index",
+      "width": 1024,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "index",
+      "width": 1440,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "projects",
+      "width": 320,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "projects",
+      "width": 390,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "projects",
+      "width": 768,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "projects",
+      "width": 1024,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "projects",
+      "width": 1440,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "kitchens",
+      "width": 320,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "kitchens",
+      "width": 390,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "kitchens",
+      "width": 768,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "kitchens",
+      "width": 1024,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "kitchens",
+      "width": 1440,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "storage",
+      "width": 320,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "storage",
+      "width": 390,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "storage",
+      "width": 768,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "storage",
+      "width": 1024,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "storage",
+      "width": 1440,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "materials",
+      "width": 320,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "materials",
+      "width": 390,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "materials",
+      "width": 768,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "materials",
+      "width": 1024,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "materials",
+      "width": 1440,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "planner",
+      "width": 320,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "planner",
+      "width": 390,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "planner",
+      "width": 768,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "planner",
+      "width": 1024,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "planner",
+      "width": 1440,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "contacts",
+      "width": 320,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "contacts",
+      "width": 390,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "contacts",
+      "width": 768,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "contacts",
+      "width": 1024,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    },
+    {
+      "page": "contacts",
+      "width": 1440,
+      "overflow": 0,
+      "bad_images": [],
+      "errors": []
+    }
+  ],
+  "functional": {
+    "all_projects": 6,
+    "storage_projects": 2,
+    "dialog_open": true,
+    "dialog_closed": true,
+    "preview_kind": "Шкаф",
+    "glass_display": "inline",
+    "request_status": "Заявка скопирована. Теперь откройте VK и вставьте сообщение.",
+    "copied": "Здравствуйте! Хочу получить предварительный расчёт мебели и уточнить условия бесплатного 3D-проекта.\n\nИзделие: Шкаф\nПланировка: Угловая\nШирина: 340 см\nВысота: 260 см\nГлубина: 60 см\nМатериал фасадов: МДФ\nФактура: Стекло\nЦвет: Песочный\nДополн",
+    "photo_count": 1,
+    "after_remove": 0,
+    "material_changed": true,
+    "mobile_menu": true
+  }
+}
